@@ -7,4 +7,4 @@ Aim 3: To study variation in voltage with intensity of the given solar panel.
 Aim 4: To demonstrate and design a weighing machine.
 Aim 5: To determine the time period of variable mass pendulum with variable m.
 Aim 6: To make photogate with expeyes.
-![image](https://user-images.githubusercontent.com/112537813/209676135-37204476-179f-40a1-b631-5beb2dffa58d.png)
+![image](https://github.com/dftml/Study-Github/blob/1a96ece695a57af7bd2f39bdf64779f54db1cacb/Expeyes.PNG)
